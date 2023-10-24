@@ -1,0 +1,84 @@
+﻿@model IEnumerable<ASM1.Models.Product>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Heading -->
+<h1 class="h3 mb-2 text-gray-800">All Products</h1>
+<p>
+	<a class="btn btn-outline-success" asp-action="Create">Create New</a>
+</p>
+<!-- DataTales -->
+<div class="card shadow mb-4">
+
+	<div class="card-body">
+		<div class="table-responsive">
+			<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+				<thead>
+					<tr>
+						<th>
+							@Html.DisplayNameFor(model => model.Name)
+						</th>
+						<th>
+						img						
+						</th>
+						<th>
+							@Html.DisplayNameFor(model => model.price)
+						</th>
+						<th>
+							@Html.DisplayNameFor(model => model.quantity)
+						</th>
+						<th>
+							@Html.DisplayNameFor(model => model.type)
+						</th>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model)
+					{
+						<tr>
+							<td>
+								@Html.DisplayFor(modelItem => item.Name)
+							</td>
+							<td>
+								<img src="@Url.Content("/img" + item.img)" height="120px" width="150px">
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => item.price)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => item.quantity)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => item.type)
+							</td>
+							<td>
+								<a class="btn btn-info" style="margin-bottom: 5px;" asp-action="Edit" asp-route-id="@item.Id">Edit</a><br>
+								<a class="btn btn-success" style="margin-bottom: 5px;" asp-action="Details" asp-route-id="@item.Id">Details</a><br>
+								<a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a><br>
+							</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+<!-- /.container-fluid -->
+<style>
+	.wrapper {
+		padding: 20px;
+		max-width: 400px;
+		margin: 50px auto;
+	}
+
+	.limitword-1 {
+		overflow: hidden;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+	}
+</style>

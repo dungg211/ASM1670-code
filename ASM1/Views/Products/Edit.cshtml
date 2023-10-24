@@ -1,0 +1,66 @@
+﻿@model ASM1.Models.Product
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/css/Form.css" rel="stylesheet">
+<h4>Edit Product</h4>
+<hr />
+<div class="container">
+    <form asp-action="Edit" enctype="multipart/form-data" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group row">
+            <div class="col-25">
+                <label>Product Name:</label>
+            </div>
+            <div class="col-75">
+                <input asp-for="Name" class="form-control" placeholder="Product name..." />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-25">
+                <label class="control-label">Img: </label>
+            </div>
+            <div class="col-75">
+                <input type="file" asp-for="img" class="form-control-file" />
+                <span asp-validation-for="img" class="text-danger"></span>
+            </div>
+        </div>
+        
+        <div class="form-group row">
+            <div class="col-25">
+                <label class="control-label">Product Price : </label>
+            </div>
+            <div class="col-75">
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-25">
+                <label class="control-label">Product quantity: </label>
+            </div>
+            <div class="col-75">
+                <textarea asp-for="quantity" class="form-control" style="height:200px"></textarea>
+                <span asp-validation-for="quantity" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-25">
+                <label class="control-label">type </label>
+            </div>
+            <div class="col-75">
+                <input asp-for="type" class="form-control" />
+                <span asp-validation-for="type" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" style="margin-right: 10px;margin-bottom: 10px; margin-top:10px" />
+            <a asp-action="Index" class="btn btn-outline-success" style="margin-bottom: 20px; margin-right: 10px;margin-top:10px">Back to List</a>
+        </div>
+    </form>
+</div>

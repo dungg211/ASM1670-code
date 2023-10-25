@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PLMLAMz46PhKLwIsfnZ8IhqKIX9b5BOHlr2hJa/FkQs=",
+  "Hash": "cfciSGnQJnMBVZu34dkMDrs2fLdFpKwgaUM1KkETvrc=",
   "Source": "ASM1",
   "BasePath": "_content/ASM1",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ASM1\\wwwroot",
       "Source": "ASM1",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\ninhc\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.23\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ASM1.styles.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ASM1.styles.css",
       "SourceId": "ASM1",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "ASM1.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Study\\1670\\ASM1\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ASM1.styles.css"
+      "OriginalItemSpec": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ASM1.styles.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASM1.bundle.scp.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASM1.bundle.scp.css",
       "SourceId": "ASM1",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "ASM1.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Study\\1670\\ASM1\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASM1.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASM1.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\.DS_Store",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\.DS_Store",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/.DS_Store",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\.DS_Store"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\animate.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\animate.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/animate.min.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\animate.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\default-skin.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\default-skin.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/default-skin.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\default-skin.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\font-awesome.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\font-awesome.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\icomoon.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\icomoon.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/icomoon.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\icomoon.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\jquery.fancybox.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\jquery.fancybox.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/jquery.fancybox.min.css",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\jquery.fancybox.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\jquery.mCustomScrollbar.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\jquery.mCustomScrollbar.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/jquery.mCustomScrollbar.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\jquery.mCustomScrollbar.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\jquery-ui.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\jquery-ui.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/jquery-ui.css",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\jquery-ui.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\meanmenu.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\meanmenu.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/meanmenu.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\meanmenu.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\nice-select.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\nice-select.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/nice-select.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\nice-select.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\normalize.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\normalize.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/normalize.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\normalize.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\owl.carousel.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\owl.carousel.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\responsive.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\responsive.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/responsive.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\responsive.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\slick.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\slick.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/slick.css",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\slick.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\css\\style.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\style.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/css/style.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\a\\css\\style.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\about-img.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\about-img.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/about-img.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\about-img.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\background1.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\background1.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/background1.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\background1.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\bag-icon.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\bag-icon.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/bag-icon.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\bag-icon.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\banner-bg.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\banner-bg.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/banner-bg.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\banner-bg.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\banner-img.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\banner-img.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/banner-img.png",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\banner-img.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\call-icon.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\call-icon.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/call-icon.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\call-icon.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\client-img.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\client-img.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/client-img.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\client-img.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\footer-logo.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\footer-logo.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/footer-logo.png",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\footer-logo.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-1.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-1.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-1.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-1.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-10.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-10.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-10.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-10.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-11.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-11.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-11.png",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-11.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-12.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-12.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-12.png",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-12.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-2.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-2.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-2.png",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-2.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-3.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-3.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-3.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-3.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-4.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-4.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-4.png",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-4.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-5.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-5.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-5.png",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-5.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-6.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-6.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-6.png",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-6.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-7.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-7.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-7.png",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-7.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-8.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-8.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-8.png",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-8.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\img-9.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\img-9.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/img-9.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\img-9.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\logo.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\logo.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/logo.png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\logo.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\mail-icon.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\mail-icon.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/mail-icon.png",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\mail-icon.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\map-icon.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\map-icon.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/map-icon.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\map-icon.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\search-icon.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\search-icon.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/search-icon.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\search-icon.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\toggle-icon.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\toggle-icon.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/toggle-icon.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\toggle-icon.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\images\\user-icon.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\user-icon.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/images/user-icon.png",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\a\\images\\user-icon.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\.DS_Store",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\.DS_Store",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/.DS_Store",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\.DS_Store"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.js.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\bootstrap.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/bootstrap.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\bootstrap.js.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.js.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\bootstrap.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.min.js.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\custom.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\custom.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/custom.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\custom.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery.mCustomScrollbar.concat.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/jquery.mCustomScrollbar.concat.min.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\jquery.mCustomScrollbar.concat.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\jquery.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/jquery.min.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\jquery.validate.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery.validate.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/jquery.validate.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\jquery-3.0.0.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery-3.0.0.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/jquery-3.0.0.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\jquery-3.0.0.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\modernizer.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\modernizer.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/modernizer.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\modernizer.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\plugin.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\plugin.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/plugin.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\plugin.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\popper.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\popper.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/popper.min.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\popper.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\a\\js\\slider-setting.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\slider-setting.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "a/js/slider-setting.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\a\\js\\slider-setting.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\.DS_Store",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\.DS_Store",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\css\\.DS_Store"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\animate.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\animate.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/animate.min.css",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\default-skin.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\default-skin.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/default-skin.css",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\css\\default-skin.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\Form.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\Form.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/Form.css",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Form.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\icomoon.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\icomoon.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/icomoon.css",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icomoon.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\jquery.fancybox.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\jquery.fancybox.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/jquery.fancybox.min.css",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.fancybox.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/jquery.mCustomScrollbar.min.css",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.mCustomScrollbar.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\jquery-ui.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\jquery-ui.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/jquery-ui.css",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-ui.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\meanmenu.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\meanmenu.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/meanmenu.css",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\css\\meanmenu.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\nice-select.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\nice-select.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/nice-select.css",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nice-select.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\normalize.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\normalize.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/normalize.css",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\css\\normalize.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\owl.carousel.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\responsive.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\responsive.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\sb-admin-2.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\sb-admin-2.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/sb-admin-2.css",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\css\\sb-admin-2.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\site.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\slick.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\slick.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/slick.css",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\css\\style.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\css\\style.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\favicon.ico",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\css\\ajax-loader.gif",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\css\\ajax-loader.gif",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/css/ajax-loader.gif",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\home\\css\\ajax-loader.gif"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\css\\normalize.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\css\\normalize.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/css/normalize.css",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\home\\css\\normalize.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\css\\vendor.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\css\\vendor.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/css/vendor.css",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\home\\css\\vendor.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\icomoon\\fonts\\icomoon.eot",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\icomoon\\fonts\\icomoon.eot",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/icomoon/fonts/icomoon.eot",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\home\\icomoon\\fonts\\icomoon.eot"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\icomoon\\fonts\\icomoon.svg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\icomoon\\fonts\\icomoon.svg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/icomoon/fonts/icomoon.svg",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\home\\icomoon\\fonts\\icomoon.svg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\icomoon\\fonts\\icomoon.ttf",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\icomoon\\fonts\\icomoon.ttf",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/icomoon/fonts/icomoon.ttf",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\home\\icomoon\\fonts\\icomoon.ttf"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\icomoon\\fonts\\icomoon.woff",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\icomoon\\fonts\\icomoon.woff",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/icomoon/fonts/icomoon.woff",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\home\\icomoon\\fonts\\icomoon.woff"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\icomoon\\icomoon.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\icomoon\\icomoon.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/icomoon/icomoon.css",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\home\\icomoon\\icomoon.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\icomoon\\Read Me.txt",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\icomoon\\Read Me.txt",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/icomoon/Read Me.txt",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\home\\icomoon\\Read Me.txt"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\icomoon\\selection.json",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\icomoon\\selection.json",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/icomoon/selection.json",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\home\\icomoon\\selection.json"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\app-store.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\app-store.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/app-store.jpg",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\app-store.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\client-image1.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\client-image1.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/client-image1.png",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\client-image1.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\client-image2.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\client-image2.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/client-image2.png",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\client-image2.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\client-image3.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\client-image3.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/client-image3.png",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\client-image3.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\client-image4.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\client-image4.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/client-image4.png",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\client-image4.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\client-image5.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\client-image5.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/client-image5.png",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\client-image5.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\curly-divider.svg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\curly-divider.svg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/curly-divider.svg",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\curly-divider.svg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\chocolat\\close.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\chocolat\\close.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/chocolat/close.png",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\chocolat\\close.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\chocolat\\fullscreen.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\chocolat\\fullscreen.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/chocolat/fullscreen.png",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\chocolat\\fullscreen.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\chocolat\\fullscreen-black.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\chocolat\\fullscreen-black.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/chocolat/fullscreen-black.png",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\chocolat\\fullscreen-black.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\chocolat\\left.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\chocolat\\left.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/chocolat/left.png",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\chocolat\\left.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\chocolat\\loader.gif",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\chocolat\\loader.gif",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/chocolat/loader.gif",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\chocolat\\loader.gif"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\chocolat\\right.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\chocolat\\right.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/chocolat/right.png",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\chocolat\\right.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\default.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\default.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/default.png",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\default.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\device.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\device.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/device.png",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\device.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\google-play.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\google-play.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/google-play.jpg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\google-play.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\item.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\item.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/item.png",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\item.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\item1.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\item1.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/item1.png",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\item1.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\item3.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\item3.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/item3.png",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\item3.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\item4.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\item4.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/item4.png",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\item4.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\item5.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\item5.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/item5.png",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\item5.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\leaf.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\leaf.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/leaf.png",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\leaf.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\main-banner1.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\main-banner1.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/main-banner1.jpg",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\main-banner1.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\main-banner2.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\main-banner2.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/main-banner2.jpg",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\main-banner2.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\main-logo.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\main-logo.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/main-logo.png",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\main-logo.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\ns-arrow-right.svg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\ns-arrow-right.svg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/ns-arrow-right.svg",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\ns-arrow-right.svg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\pattern1.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\pattern1.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/pattern1.png",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\pattern1.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\pattern2.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\pattern2.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/pattern2.png",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\pattern2.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\post-img1.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\post-img1.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/post-img1.jpg",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\post-img1.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\post-img2.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\post-img2.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/post-img2.jpg",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\post-img2.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\post-img3.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\post-img3.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/post-img3.jpg",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\post-img3.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\product-item1.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\product-item1.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/product-item1.jpg",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\product-item1.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\product-item2.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\product-item2.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/product-item2.jpg",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\product-item2.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\product-item3.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\product-item3.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/product-item3.jpg",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\product-item3.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\product-item4.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\product-item4.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/product-item4.jpg",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\product-item4.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\product-item5.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\product-item5.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/product-item5.jpg",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\product-item5.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\product-item6.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\product-item6.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/product-item6.jpg",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\product-item6.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\product-item7.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\product-item7.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/product-item7.jpg",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\product-item7.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\product-item8.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\product-item8.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/product-item8.jpg",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\product-item8.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\single-image.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\single-image.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/single-image.jpg",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\single-image.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\tab-item1.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\tab-item1.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/tab-item1.jpg",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\tab-item1.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\tab-item2.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\tab-item2.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/tab-item2.jpg",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\tab-item2.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\tab-item3.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\tab-item3.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/tab-item3.jpg",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\tab-item3.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\tab-item4.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\tab-item4.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/tab-item4.jpg",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\tab-item4.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\tab-item5.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\tab-item5.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/tab-item5.jpg",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\tab-item5.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\tab-item6.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\tab-item6.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/tab-item6.jpg",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\tab-item6.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\tab-item7.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\tab-item7.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/tab-item7.jpg",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\tab-item7.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\images\\tab-item8.jpg",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\images\\tab-item8.jpg",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/images/tab-item8.jpg",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\home\\images\\tab-item8.jpg"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\home\\style.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\home\\style.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "home/style.css",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\home\\style.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\img\\Screenshot 2023-10-20 212004.png",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\img\\Screenshot 2023-10-20 212004.png",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "img/Screenshot 2023-10-20 212004.png",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Screenshot 2023-10-20 212004.png"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\js\\site.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -3961,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -3978,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -3995,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -4012,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -4029,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -4046,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -4063,10 +4063,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -4080,10 +4080,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -4097,10 +4097,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -4114,10 +4114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -4131,10 +4131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -4148,10 +4148,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -4165,10 +4165,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -4182,10 +4182,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -4199,10 +4199,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -4216,10 +4216,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -4233,10 +4233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -4250,10 +4250,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -4267,10 +4267,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -4284,10 +4284,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -4301,10 +4301,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -4318,10 +4318,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -4335,10 +4335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -4352,10 +4352,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -4369,10 +4369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -4386,10 +4386,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -4403,10 +4403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -4420,10 +4420,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -4437,10 +4437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -4454,10 +4454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -4471,10 +4471,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -4488,10 +4488,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -4505,10 +4505,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -4522,10 +4522,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -4539,10 +4539,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -4556,10 +4556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -4573,10 +4573,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -4590,10 +4590,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -4607,10 +4607,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -4624,10 +4624,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -4641,10 +4641,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -4658,10 +4658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -4675,10 +4675,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -4692,10 +4692,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -4709,10 +4709,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -4726,10 +4726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -4743,10 +4743,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -4760,10 +4760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -4777,10 +4777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -4794,10 +4794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ASM1",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Study\\1670\\ASM1\\ASM1\\wwwroot\\",
+      "ContentRoot": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\wwwroot\\",
       "BasePath": "_content/ASM1",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

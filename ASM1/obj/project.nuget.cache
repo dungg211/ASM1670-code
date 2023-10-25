@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B2U+PUPY0UW7JiAzMOO3CDfp7Gy26wnWEd2Juf5GnCmh7O5xAi9QNdqVY07VaYh/JOpdFo48N8nNJU2H4Wozlg==",
+  "dgSpecHash": "Oqb1QqHsPKcQs9CcGhvGjjnT/tw6VxjYE78kjAkGboOfTPUxmY4q74toiLdXL/JnTqyX3nZhBSjGcgJeLyfdrw==",
   "success": true,
-  "projectFilePath": "D:\\Study\\1670\\ASM1\\ASM1\\ASM1.csproj",
+  "projectFilePath": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\ASM1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ninhc\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ninhc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

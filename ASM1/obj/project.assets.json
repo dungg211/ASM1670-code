@@ -11417,11 +11417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\1670\\ASM1\\ASM1\\ASM1.csproj",
+      "projectUniqueName": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\ASM1.csproj",
       "projectName": "ASM1",
-      "projectPath": "D:\\Study\\1670\\ASM1\\ASM1\\ASM1.csproj",
+      "projectPath": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\ASM1.csproj",
       "packagesPath": "C:\\Users\\ninhc\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\1670\\ASM1\\ASM1\\obj\\",
+      "outputPath": "D:\\Study\\Thư mục mới\\ASM1670-code\\ASM1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ninhc\\AppData\\Roaming\\NuGet\\NuGet.Config",

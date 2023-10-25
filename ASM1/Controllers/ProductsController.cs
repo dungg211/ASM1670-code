@@ -53,7 +53,7 @@ namespace ASM1.Models
             {
                 return _context.Product != null ?
                                   View(data) :
-                                  Problem("Entity set 'ASM_Bicycle_ShopsContext.Product'  is null.");
+                                  Problem("Entity set 'ASM1.Product'  is null.");
             }
         }
         // GET: Products/Details/5
@@ -108,7 +108,7 @@ namespace ASM1.Models
                     if(product.img != null)
                     {
                     string folder = "/img";
-                    folder += product.img.FileName + Guid.NewGuid().ToString();
+                    folder += Guid.NewGuid().ToString() + product.img.FileName ;
                     string serverFolder = Path.Combine(_webHostEnvironment.WebRootPath, folder);
 
                     await product.img.CopyToAsync(new FileStream(serverFolder, FileMode.Create)); ;

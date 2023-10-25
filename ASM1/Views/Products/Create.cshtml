@@ -20,12 +20,14 @@
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
         </div>
-        <div class="form-control">
-            <label asp-for="img" class="control-label"></label>
-            <div class="custom-file">
-                <input asp-for="img" class="custom-file-input" id="customFile" />
+        <div class="form-group row">
+            <div class="col-25">
+                <label class="control-label">Img: </label>
             </div>
-            <span asp-validation-for="img" class="text-danger"></span>
+            <div class="col-75">
+                <input type="file" asp-for="img" class="form-control-file" id ="customFile" />
+                <span asp-validation-for="img" class="text-danger"></span>
+            </div>
         </div>
         <div class="form-group row">
             <div class="col-25">

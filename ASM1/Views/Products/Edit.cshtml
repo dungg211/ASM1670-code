@@ -51,6 +51,17 @@
         </div>
         <div class="form-group row">
             <div class="col-25">
+                <label asp-for="AuthorName" class="control-label">Author: </label>
+            </div>
+            <div class="col-75">
+                <select class="form-select" asp-items="@ViewBag.Author" asp-for="AuthorName">
+                    <option value="null"> --- Please select category for product --- </option>
+                </select>
+                <span asp-validation-for="AuthorName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-25">
                 <label class="control-label">type </label>
             </div>
             <div class="col-75">

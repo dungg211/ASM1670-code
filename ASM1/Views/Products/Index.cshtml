@@ -31,6 +31,9 @@
 							@Html.DisplayNameFor(model => model.quantity)
 						</th>
 						<th>
+							Author
+						</th>
+						<th>
 							@Html.DisplayNameFor(model => model.type)
 						</th>
 						<th></th>
@@ -51,6 +54,9 @@
 							</td>
 							<td>
 								@Html.DisplayFor(modelItem => item.quantity)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => item.AuthorName)
 							</td>
 							<td>
 								@Html.DisplayFor(modelItem => item.type)

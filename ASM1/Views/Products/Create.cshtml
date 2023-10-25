@@ -1,5 +1,4 @@
 ﻿@model ASM1.Models.Product
-
 @{
     ViewData["Title"] = "Create";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -45,6 +44,17 @@
             <div class="col-75">
                 <input asp-for="quantity" class="form-control" placeholder="Product quantity..." />
                 <span asp-validation-for="quantity" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-25">
+                <label asp-for="AuthorName" class="control-label">author: </label>
+            </div>
+            <div class="col-75">
+                <select class="form-select" asp-items="@ViewBag.author" asp-for="AuthorName">
+                    <option value="null"> --- Please select author for product --- </option>
+                </select>
+                <span asp-validation-for="AuthorName" class="text-danger"></span>
             </div>
         </div>
         <div class="form-group row">

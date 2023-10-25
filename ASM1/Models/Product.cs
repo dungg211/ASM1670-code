@@ -13,6 +13,8 @@ namespace ASM1.Models
         public IFormFile img { get; set; }
         public int price { get; set; }
         public string quantity { get; set; }
+        public string? AuthorName { get; set; }
+
         public string type { get; set; }
 
     }

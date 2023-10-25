@@ -151,6 +151,14 @@ namespace ASM1.Models
 
             if (ModelState.IsValid)
             {
+                if (product.img != null)
+                {
+                    string folder = "/img";
+                    folder += product.img.FileName + Guid.NewGuid().ToString();
+                    string serverFolder = Path.Combine(_webHostEnvironment.WebRootPath, folder);
+
+                    await product.img.CopyToAsync(new FileStream(serverFolder, FileMode.Create)); ;
+                }
                 try
                 {
                     _context.Update(product);

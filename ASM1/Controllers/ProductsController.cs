@@ -44,6 +44,23 @@ namespace ASM1.Controllers
 
             return View(product);
         }
+        public async Task<IActionResult> ProductDetail(int? id)
+        {
+            if (id == null || _context.Product == null)
+            {
+                return NotFound();
+            }
+
+            var product = await _context.Product
+                .Include(p => p.Authors)
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            return View(product);
+        }
         public async Task<IActionResult> ListProduct(string searchString)
         {
             var data = await _context.Product.ToListAsync();

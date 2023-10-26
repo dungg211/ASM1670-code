@@ -21,6 +21,8 @@ namespace ASM1.Controllers
         }
         [Authorize]
         // GET: Products
+        [Authorize(Roles = "ADMIN")]
+
         public async Task<IActionResult> Index()
         {
             var applicationDbContext = _context.Product.Include(p => p.Authors);

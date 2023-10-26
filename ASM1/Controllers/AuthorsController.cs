@@ -7,7 +7,6 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ASM1.Data;
 using ASM1.Models;
-using Microsoft.AspNetCore.Authorization;
 
 namespace ASM1.Controllers
 {
@@ -71,19 +70,17 @@ namespace ASM1.Controllers
         // GET: Authors/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
-            
             if (id == null || _context.Author == null)
             {
                 return NotFound();
             }
 
-            var Author = await _context.Author.FindAsync(id);
-            TempData["oldName"] = Author.AuthorName;
-            if (Author == null)
+            var author = await _context.Author.FindAsync(id);
+            if (author == null)
             {
                 return NotFound();
             }
-            return View(Author);
+            return View(author);
         }
 
         // POST: Authors/Edit/5
@@ -91,22 +88,17 @@ namespace ASM1.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-
         public async Task<IActionResult> Edit(int id, [Bind("AuthorId,AuthorName,Authoraddress,Authoremail")] Author author)
         {
-            
             if (id != author.AuthorId)
             {
                 return NotFound();
             }
 
-            //Update product
-
             if (ModelState.IsValid)
             {
                 try
                 {
-                    //Update Category New
                     _context.Update(author);
                     await _context.SaveChangesAsync();
                 }

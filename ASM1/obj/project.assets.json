@@ -11412,19 +11412,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ninhc\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\Thư mục mới\\Thư mục mới\\ASM1670-code\\ASM1\\ASM1.csproj",
+      "projectUniqueName": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\ASM1.csproj",
       "projectName": "ASM1",
-      "projectPath": "D:\\Study\\Thư mục mới\\Thư mục mới\\ASM1670-code\\ASM1\\ASM1.csproj",
-      "packagesPath": "C:\\Users\\ninhc\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\Thư mục mới\\Thư mục mới\\ASM1670-code\\ASM1\\obj\\",
+      "projectPath": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\ASM1.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ninhc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11432,6 +11432,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11508,7 +11509,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

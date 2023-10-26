@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ASM1.Data;
 using ASM1.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ASM1.Controllers
 {
@@ -18,7 +19,7 @@ namespace ASM1.Controllers
         {
             _context = context;
         }
-
+        [Authorize]
         // GET: Products
         public async Task<IActionResult> Index()
         {
@@ -44,6 +45,7 @@ namespace ASM1.Controllers
 
             return View(product);
         }
+        [Authorize(Roles = "ADMIN") ]
         public async Task<IActionResult> ProductDetail(int? id)
         {
             if (id == null || _context.Product == null)
@@ -85,6 +87,8 @@ namespace ASM1.Controllers
             }
         }
         // GET: Products/Create
+        [Authorize(Roles = "ADMIN")]
+
         public IActionResult Create()
         {
             ViewData["AuthorId"] = new SelectList(_context.Author, "AuthorId", "AuthorName");
@@ -109,6 +113,7 @@ namespace ASM1.Controllers
         }
 
         // GET: Products/Edit/5
+        [Authorize(Roles = "ADMIN")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Product == null)
@@ -162,6 +167,7 @@ namespace ASM1.Controllers
         }
 
         // GET: Products/Delete/5
+        [Authorize(Roles = "ADMIN")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Product == null)
@@ -181,6 +187,7 @@ namespace ASM1.Controllers
         }
 
         // POST: Products/Delete/5
+         [Authorize(Roles = "ADMIN")]
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

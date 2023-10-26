@@ -11,6 +11,5 @@ namespace ASM1.Models
         public string Authoraddress { get; set; }
         public string Authoremail { get; set; }
 
-        public ICollection<Product> Products { get; set; }
     }
 }

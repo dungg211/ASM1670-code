@@ -14,8 +14,9 @@ namespace ASM1.Models
         public int price { get; set; }
         public string quantity { get; set; }
         public string? AuthorName { get; set; }
-
-        public string type { get; set; }
+		public string? EmpPhotoPath { get; set; }
+		public string? EmpFileName { get; set; }
+		public string type { get; set; }
 
     }
 }

@@ -26,4 +26,8 @@
     <PackageReference Include="xunit.extensibility.execution" Version="2.5.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\book\image\" />
+  </ItemGroup>
+
 </Project>

@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 using System.Data;
 using System.Reflection;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Hosting;
 
 namespace ASM1.Models
 {
@@ -102,22 +103,29 @@ namespace ASM1.Models
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,img,price,quantity,type")] Product product)
         {
-            
+			string uniqueFileName = null;
+            if (product.img != null)
+            {
+                string ImageUpLoadFolder = Path.Combine(_webHostEnvironment.WebRootPath, "UploadImg");
+
+                uniqueFileName = Guid.NewGuid().ToString() + "_" + product.img.FileName;
+
+                string filepath = Path.Combine(ImageUpLoadFolder, uniqueFileName);
+
+                using (var fileStream = new FileStream(filepath, FileMode.Create))
+                {
+                    product.img.CopyTo(fileStream);
+                }
+                product.EmpPhotoPath = "~/book/image";
+                product.EmpFileName = uniqueFileName;
                 if (ModelState.IsValid)
                 {
-                    if(product.img != null)
-                    {
-                    string folder = "/img";
-                    folder += Guid.NewGuid().ToString() + product.img.FileName ;
-                    string serverFolder = Path.Combine(_webHostEnvironment.WebRootPath, folder);
 
-                    await product.img.CopyToAsync(new FileStream(serverFolder, FileMode.Create)); ;
-                    }
                     _context.Add(product);
                     await _context.SaveChangesAsync();
                     return RedirectToAction(nameof(Index));
                 }
-            
+            }
             return View(product);
         }
 
@@ -148,17 +156,25 @@ namespace ASM1.Models
             {
                 return NotFound();
             }
-
-            if (ModelState.IsValid)
+			string uniqueFileName = null;
+            if (product.img != null)
             {
-                if (product.img != null)
-                {
-                    string folder = "/img";
-                    folder += product.img.FileName + Guid.NewGuid().ToString();
-                    string serverFolder = Path.Combine(_webHostEnvironment.WebRootPath, folder);
+                string ImageUpLoadFolder = Path.Combine(_webHostEnvironment.WebRootPath, "UploadImg");
 
-                    await product.img.CopyToAsync(new FileStream(serverFolder, FileMode.Create)); ;
+                uniqueFileName = Guid.NewGuid().ToString() + "_" + product.img.FileName;
+
+                string filepath = Path.Combine(ImageUpLoadFolder, uniqueFileName);
+
+                using (var fileStream = new FileStream(filepath, FileMode.Create))
+                {
+                    product.img.CopyTo(fileStream);
                 }
+            }
+				product.EmpPhotoPath = "~/book/image";
+				product.EmpFileName = uniqueFileName;
+				if (ModelState.IsValid)
+            {
+                
                 try
                 {
                     _context.Update(product);

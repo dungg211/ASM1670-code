@@ -7,16 +7,15 @@ namespace ASM1.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        [NotMapped]
-        [Required]
-        [Display(Name ="UploadFile")]
-        public IFormFile img { get; set; }
+        public string img { get; set; }
         public int price { get; set; }
         public string quantity { get; set; }
-        public string? AuthorName { get; set; }
-		public string? EmpPhotoPath { get; set; }
-		public string? EmpFileName { get; set; }
+        /*		public string? EmpPhotoPath { get; set; }
+		public string? EmpFileName { get; set; }*/
 		public string type { get; set; }
 
+        public int? AuthorId { get; set; }
+        [ForeignKey("AuthorId")]
+        public Author? Authors { get; set; }
     }
 }

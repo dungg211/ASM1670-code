@@ -28,6 +28,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\book\image\" />
+    <Folder Include="wwwroot\book\image\" />
   </ItemGroup>
 
 </Project>

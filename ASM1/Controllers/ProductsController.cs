@@ -7,32 +7,42 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ASM1.Data;
 using ASM1.Models;
-using Microsoft.Extensions.Hosting;
-using System.Data;
-using System.Reflection;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Hosting;
 
-namespace ASM1.Models
+namespace ASM1.Controllers
 {
     public class ProductsController : Controller
     {
         private readonly ApplicationDbContext _context;
-        private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public ProductsController(ApplicationDbContext context, 
-            IWebHostEnvironment webHostEnvironment)
+        public ProductsController(ApplicationDbContext context)
         {
             _context = context;
-            _webHostEnvironment = webHostEnvironment;
         }
 
         // GET: Products
         public async Task<IActionResult> Index()
         {
-              return _context.Product != null ? 
-                          View(await _context.Product.ToListAsync()) :
-                          Problem("Entity set 'ApplicationDbContext.Product'  is null.");
+            var applicationDbContext = _context.Product.Include(p => p.Authors);
+            return View(await applicationDbContext.ToListAsync());
+        }
+
+        // GET: Products/Details/5
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null || _context.Product == null)
+            {
+                return NotFound();
+            }
+
+            var product = await _context.Product
+                .Include(p => p.Authors)
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            return View(product);
         }
         public async Task<IActionResult> ListProduct(string searchString)
         {
@@ -57,42 +67,10 @@ namespace ASM1.Models
                                   Problem("Entity set 'ASM1.Product'  is null.");
             }
         }
-        // GET: Products/Details/5
-        public async Task<IActionResult> Details(int? id)
-        {
-            if (id == null || _context.Product == null)
-            {
-                return NotFound();
-            }
-
-            var product = await _context.Product
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (product == null)
-            {
-                return NotFound();
-            }
-
-            return View(product);
-        }
-        public async Task<IActionResult> ProductDetail(int? id)
-        {
-            if (id == null || _context.Product == null)
-            {
-                return NotFound();
-            }
-
-            var product = await _context.Product
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (product == null)
-            {
-                return NotFound();
-            }
-
-            return View(product);
-        }
         // GET: Products/Create
         public IActionResult Create()
         {
+            ViewData["AuthorId"] = new SelectList(_context.Author, "AuthorId", "AuthorName");
             return View();
         }
 
@@ -101,31 +79,15 @@ namespace ASM1.Models
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,img,price,quantity,type")] Product product)
+        public async Task<IActionResult> Create([Bind("Id,Name,img,price,quantity,type,AuthorId")] Product product)
         {
-			string uniqueFileName = null;
-            if (product.img != null)
+            if (ModelState.IsValid)
             {
-                string ImageUpLoadFolder = Path.Combine(_webHostEnvironment.WebRootPath, "UploadImg");
-
-                uniqueFileName = Guid.NewGuid().ToString() + "_" + product.img.FileName;
-
-                string filepath = Path.Combine(ImageUpLoadFolder, uniqueFileName);
-
-                using (var fileStream = new FileStream(filepath, FileMode.Create))
-                {
-                    product.img.CopyTo(fileStream);
-                }
-                product.EmpPhotoPath = "~/book/image";
-                product.EmpFileName = uniqueFileName;
-                if (ModelState.IsValid)
-                {
-
-                    _context.Add(product);
-                    await _context.SaveChangesAsync();
-                    return RedirectToAction(nameof(Index));
-                }
+                _context.Add(product);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
+            ViewData["AuthorId"] = new SelectList(_context.Author, "AuthorId", "AuthorName", product.AuthorId);
             return View(product);
         }
 
@@ -142,6 +104,7 @@ namespace ASM1.Models
             {
                 return NotFound();
             }
+            ViewData["AuthorId"] = new SelectList(_context.Author, "AuthorId", "AuthorName", product.AuthorId);
             return View(product);
         }
 
@@ -150,31 +113,15 @@ namespace ASM1.Models
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,img,price,quantity,type")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,img,price,quantity,type,AuthorId")] Product product)
         {
             if (id != product.Id)
             {
                 return NotFound();
             }
-			string uniqueFileName = null;
-            if (product.img != null)
+
+            if (ModelState.IsValid)
             {
-                string ImageUpLoadFolder = Path.Combine(_webHostEnvironment.WebRootPath, "UploadImg");
-
-                uniqueFileName = Guid.NewGuid().ToString() + "_" + product.img.FileName;
-
-                string filepath = Path.Combine(ImageUpLoadFolder, uniqueFileName);
-
-                using (var fileStream = new FileStream(filepath, FileMode.Create))
-                {
-                    product.img.CopyTo(fileStream);
-                }
-            }
-				product.EmpPhotoPath = "~/book/image";
-				product.EmpFileName = uniqueFileName;
-				if (ModelState.IsValid)
-            {
-                
                 try
                 {
                     _context.Update(product);
@@ -193,6 +140,7 @@ namespace ASM1.Models
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["AuthorId"] = new SelectList(_context.Author, "AuthorId", "AuthorName", product.AuthorId);
             return View(product);
         }
 
@@ -205,6 +153,7 @@ namespace ASM1.Models
             }
 
             var product = await _context.Product
+                .Include(p => p.Authors)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (product == null)
             {

@@ -51,7 +51,7 @@
                         <div class="d-flex justify-content-between p-3">
                             <p class="lead mb-0">@i.Name</p>
                         </div>
-                        <img style="height:200px;" src="@Url.Content("~/UploadImg/" + i.img)">
+                        <img style="height:200px;" src="@i.img">
                         <div class="card-body">
                             <div class="d-flex justify-content-between">
                                 <p class="small"><a href="#!" class="text-muted">Price</a></p>
@@ -68,7 +68,7 @@
                                 </div>
 
                             </div>
-                            <a class="btn btn-outline-secondary" asp-area="" asp-action="ProductDetails" asp-route-id="@i.Id" class="btn details px-auto">view details</a>
+                            <a class="btn btn-outline-secondary" asp-area="" asp-action="ProductDetail" asp-route-id="@i.Id" class="btn details px-auto">view details</a>
                             <a class="btn btn-outline-secondary" style="margin-left:13px" asp-controller="Cart" asp-action="Add" asp-route-id="@i.Id" class="btn cart px-auto">add to card</a>
                         </div>
                     </div>

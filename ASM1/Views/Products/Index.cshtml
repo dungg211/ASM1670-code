@@ -22,7 +22,7 @@
 							@Html.DisplayNameFor(model => model.Name)
 						</th>
 						<th>
-						img						
+							@Html.DisplayNameFor(model => model.img)
 						</th>
 						<th>
 							@Html.DisplayNameFor(model => model.price)
@@ -31,7 +31,7 @@
 							@Html.DisplayNameFor(model => model.quantity)
 						</th>
 						<th>
-							Author
+							AuthorName
 						</th>
 						<th>
 							@Html.DisplayNameFor(model => model.type)
@@ -47,7 +47,7 @@
 								@Html.DisplayFor(modelItem => item.Name)
 							</td>
 							<td>
-								<img src="@Url.Content("~/book/image" + item.img)" height="120px" width="150px">
+								<img src="@item.img" height="200" width="200">
 							</td>
 							<td>
 								@Html.DisplayFor(modelItem => item.price)
@@ -56,7 +56,7 @@
 								@Html.DisplayFor(modelItem => item.quantity)
 							</td>
 							<td>
-								@Html.DisplayFor(modelItem => item.AuthorName)
+								@Html.DisplayFor(modelItem => item.Authors.AuthorName)
 							</td>
 							<td>
 								@Html.DisplayFor(modelItem => item.type)

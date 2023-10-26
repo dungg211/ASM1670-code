@@ -101,20 +101,6 @@ namespace ASM1.Controllers
             }
 
             //Update product
-            var oldCate = TempData["oldName"].ToString();
-            if (oldCate != null)
-            {
-                var product = _context.Product.ToList<Product>();
-                foreach (var item in product)
-                {
-                    if (item.AuthorName == oldCate)
-                    {
-                        item.AuthorName = author.AuthorName;
-                        _context.Update(item);
-                        await _context.SaveChangesAsync();
-                    }
-                }
-            }
 
             if (ModelState.IsValid)
             {

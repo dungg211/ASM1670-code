@@ -9,7 +9,7 @@ namespace ASM1.Models
         public string Name { get; set; }
         public string img { get; set; }
         public int price { get; set; }
-        public string quantity { get; set; }
+        public int quantity { get; set; }
         /*		public string? EmpPhotoPath { get; set; }
 		public string? EmpFileName { get; set; }*/
 		public string type { get; set; }

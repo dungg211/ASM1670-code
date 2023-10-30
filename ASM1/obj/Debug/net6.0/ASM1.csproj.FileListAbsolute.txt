@@ -1058,3 +1058,15 @@ D:\PROGRAMMING\ASP.NET\ASM1670-code\ASM1\obj\Debug\net6.0\refint\ASM1.dll
 D:\PROGRAMMING\ASP.NET\ASM1670-code\ASM1\obj\Debug\net6.0\ASM1.pdb
 D:\PROGRAMMING\ASP.NET\ASM1670-code\ASM1\obj\Debug\net6.0\ASM1.genruntimeconfig.cache
 D:\PROGRAMMING\ASP.NET\ASM1670-code\ASM1\obj\Debug\net6.0\ref\ASM1.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\ClosedXML.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\Irony.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Study\Thư mục mới\Thư mục mới\ASM1670-code\ASM1\bin\Debug\net6.0\XLParser.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\ASM1.csproj": {}
+    "D:\\Study\\Thư mục mới\\Thư mục mới\\ASM1670-code\\ASM1\\ASM1.csproj": {}
   },
   "projects": {
-    "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\ASM1.csproj": {
+    "D:\\Study\\Thư mục mới\\Thư mục mới\\ASM1670-code\\ASM1\\ASM1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\ASM1.csproj",
+        "projectUniqueName": "D:\\Study\\Thư mục mới\\Thư mục mới\\ASM1670-code\\ASM1\\ASM1.csproj",
         "projectName": "ASM1",
-        "projectPath": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\ASM1.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\obj\\",
+        "projectPath": "D:\\Study\\Thư mục mới\\Thư mục mới\\ASM1670-code\\ASM1\\ASM1.csproj",
+        "packagesPath": "C:\\Users\\ninhc\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Thư mục mới\\Thư mục mới\\ASM1670-code\\ASM1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ninhc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.1, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.15, )"
@@ -63,6 +66,10 @@
               "target": "Package",
               "version": "[6.0.23, )"
             },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.16, )"
@@ -70,10 +77,6 @@
             "Topshelf": {
               "target": "Package",
               "version": "[4.3.0, )"
-            },
-            "xunit.extensibility.core": {
-              "target": "Package",
-              "version": "[2.5.3, )"
             },
             "xunit.extensibility.execution": {
               "target": "Package",
@@ -99,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

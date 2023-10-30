@@ -1,0 +1,112 @@
+﻿@model ASM1.Models.ViewModel.CartViewModel
+
+@{
+	ViewData["Title"] = "Cart Overview";
+}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+<link rel="stylesheet" href="~/cssCart/testcss.css">
+@if (Model.CartItems.Count > 0)
+{
+	<main class="page">
+		<section class="shopping-cart dark">
+			<div class="container">
+				<div class="block-heading">
+					<h2>Shopping Cart</h2>
+
+				</div>
+
+				<div class="content">
+					<div class="row">
+						<div class="col-md-12 col-lg-8">
+
+
+							@foreach (var item in Model.CartItems)
+							{
+								<div class="items">
+									<div class="product">
+										<div class="row">
+											<div class="col-md-3" style="margin-left: 20px; margin-top:40px">
+												<img class="img-fluid mx-auto d-block image" src="@item.img")>
+											</div>
+											<div class="col-md-8">
+												<div class="info">
+													<div class="row">
+														<div class="col-md-5 product-name">
+															<div class="product-name">
+																<a href="#">@item.Name</a>
+
+															</div>
+														</div>
+														<div class="col-md-4 quantity">
+															<label for="quantity">Quantity:</label>
+															<p style="border: 2px solid black; border-radius: 12px; padding: 5px;">@item.quantity</p>
+															<td>
+																<a class="btn btn-primary btn-sm" asp-action="Add" asp-route-id="@item.Id">+</a>
+																<a class="btn btn-info btn-sm" asp-action="Decrease" asp-route-id="@item.Id">-</a>
+																<a class="btn btn-danger btn-sm" asp-action="Remove" asp-route-id="@item.Id">Remove</a>
+															</td>
+														</div>
+														<div class="col-md-3 quantity">
+															<label for="quantity">Price:</label>
+															<h5 style="margin-top: 7px">$@item.price</h5>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+
+								</div>
+
+							}
+
+						</div>
+
+						<div class="col-md-12 col-lg-4">
+							<div class="summary">
+								<h3>Summary</h3>
+								<div class="summary-item"><span class="text">Date</span><span class="price">@ViewBag.Date</span></div>
+								<div class="summary-item"><span class="text">Discount</span><span class="price">$0</span></div>
+								<div class="summary-item">
+									<span class="text">Quantity</span><span class="price">
+										@{
+											var s2 = 0;
+										}
+										@foreach (var item in Model.CartItems)
+										{
+											s2 += item.quantity;
+										}
+										@s2
+									</span>
+								</div>
+
+								<div class="summary-item" style="margin-top: 5px">
+									<span class="text">Total</span><span class="price">
+										<td>
+											@Model.GrandTotal.ToString("C2")
+										</td>
+									</span>
+								</div>
+								<tr>
+									<td class="text-right" colspan="4">
+										<a class="btn btn-danger" asp-action="Clear" style="margin-top: 10px">Clear Cart</a>
+										<a class="btn btn-primary" href="~/Cart/Checkout" style="margin-top: 10px">Checkout</a>
+									</td>
+								</tr>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</section>
+	</main>
+}
+else
+{
+	<h3 class="display-4 text-center">Your cart is empty.</h3>
+}
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>

@@ -69,9 +69,8 @@ namespace ASM1.Data.Migrations
                     b.Property<int>("price")
                         .HasColumnType("int");
 
-                    b.Property<string>("quantity")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("quantity")
+                        .HasColumnType("int");
 
                     b.Property<string>("type")
                         .IsRequired()
@@ -289,7 +288,7 @@ namespace ASM1.Data.Migrations
             modelBuilder.Entity("ASM1.Models.Product", b =>
                 {
                     b.HasOne("ASM1.Models.Author", "Authors")
-                        .WithMany("Products")
+                        .WithMany()
                         .HasForeignKey("AuthorId");
 
                     b.Navigation("Authors");
@@ -344,11 +343,6 @@ namespace ASM1.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("ASM1.Models.Author", b =>
-                {
-                    b.Navigation("Products");
                 });
 #pragma warning restore 612, 618
         }

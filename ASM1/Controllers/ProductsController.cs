@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using ASM1.Data;
 using ASM1.Models;
 using Microsoft.AspNetCore.Authorization;
+using Newtonsoft.Json;
 
 namespace ASM1.Controllers
 {
@@ -212,5 +213,6 @@ namespace ASM1.Controllers
         {
           return (_context.Product?.Any(e => e.Id == id)).GetValueOrDefault();
         }
-    }
+		
+	}
 }

@@ -1,551 +1,551 @@
 {
   "Files": [
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASM1.bundle.scp.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASM1.bundle.scp.css",
       "PackagePath": "staticwebassets\\ASM1.bundle.scp.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\.DS_Store",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\.DS_Store",
       "PackagePath": "staticwebassets\\a\\css\\.DS_Store"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\animate.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\a\\css\\animate.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\a\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\default-skin.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\default-skin.css",
       "PackagePath": "staticwebassets\\a\\css\\default-skin.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\font-awesome.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\a\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\icomoon.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\icomoon.css",
       "PackagePath": "staticwebassets\\a\\css\\icomoon.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\jquery-ui.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\jquery-ui.css",
       "PackagePath": "staticwebassets\\a\\css\\jquery-ui.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\jquery.fancybox.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\jquery.fancybox.min.css",
       "PackagePath": "staticwebassets\\a\\css\\jquery.fancybox.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\jquery.mCustomScrollbar.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\jquery.mCustomScrollbar.min.css",
       "PackagePath": "staticwebassets\\a\\css\\jquery.mCustomScrollbar.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\meanmenu.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\meanmenu.css",
       "PackagePath": "staticwebassets\\a\\css\\meanmenu.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\nice-select.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\a\\css\\nice-select.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\normalize.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\normalize.css",
       "PackagePath": "staticwebassets\\a\\css\\normalize.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\owl.carousel.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\a\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\responsive.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\responsive.css",
       "PackagePath": "staticwebassets\\a\\css\\responsive.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\slick.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\slick.css",
       "PackagePath": "staticwebassets\\a\\css\\slick.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\style.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\css\\style.css",
       "PackagePath": "staticwebassets\\a\\css\\style.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\sach1.png",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\images\\sach1.png",
       "PackagePath": "staticwebassets\\a\\images\\sach1.png"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\.DS_Store",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\.DS_Store",
       "PackagePath": "staticwebassets\\a\\js\\.DS_Store"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\a\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\a\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\a\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\a\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\a\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.js.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\a\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\a\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\a\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\custom.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\custom.js",
       "PackagePath": "staticwebassets\\a\\js\\custom.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery-3.0.0.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery-3.0.0.min.js",
       "PackagePath": "staticwebassets\\a\\js\\jquery-3.0.0.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery.mCustomScrollbar.concat.min.js",
       "PackagePath": "staticwebassets\\a\\js\\jquery.mCustomScrollbar.concat.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\a\\js\\jquery.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery.validate.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\jquery.validate.js",
       "PackagePath": "staticwebassets\\a\\js\\jquery.validate.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\modernizer.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\modernizer.js",
       "PackagePath": "staticwebassets\\a\\js\\modernizer.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\plugin.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\plugin.js",
       "PackagePath": "staticwebassets\\a\\js\\plugin.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\popper.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\a\\js\\popper.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\slider-setting.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\a\\js\\slider-setting.js",
       "PackagePath": "staticwebassets\\a\\js\\slider-setting.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\book\\image3f4af8ff-077a-4c5a-b767-ec41a9dc30d7Screenshot 2023-06-28 141516.png",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\book\\image3f4af8ff-077a-4c5a-b767-ec41a9dc30d7Screenshot 2023-06-28 141516.png",
       "PackagePath": "staticwebassets\\book\\image3f4af8ff-077a-4c5a-b767-ec41a9dc30d7Screenshot 2023-06-28 141516.png"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\.DS_Store",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\.DS_Store",
       "PackagePath": "staticwebassets\\css\\.DS_Store"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\Form.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\Form.css",
       "PackagePath": "staticwebassets\\css\\Form.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\animate.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\css\\animate.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\default-skin.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\default-skin.css",
       "PackagePath": "staticwebassets\\css\\default-skin.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\icomoon.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\icomoon.css",
       "PackagePath": "staticwebassets\\css\\icomoon.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\jquery-ui.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\jquery-ui.css",
       "PackagePath": "staticwebassets\\css\\jquery-ui.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\jquery.fancybox.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\jquery.fancybox.min.css",
       "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
       "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\meanmenu.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\meanmenu.css",
       "PackagePath": "staticwebassets\\css\\meanmenu.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\nice-select.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\normalize.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\normalize.css",
       "PackagePath": "staticwebassets\\css\\normalize.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\owl.carousel.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\responsive.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\sb-admin-2.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\sb-admin-2.css",
       "PackagePath": "staticwebassets\\css\\sb-admin-2.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\site.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\slick.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\slick.css",
       "PackagePath": "staticwebassets\\css\\slick.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\css\\style.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\favicon.ico",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\js\\site.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\PROGRAMMING\\ASP.NET\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Study\\Thư mục mới (2)\\ASM1670-code\\ASM1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

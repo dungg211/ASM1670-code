@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ASM1.Infrastructure;
-
 using Microsoft.EntityFrameworkCore;
 using ASM1.Data;
 using ASM1.Models;
@@ -119,24 +118,41 @@ namespace ASM1.Controllers
             return RedirectToAction("Index");
         }
 
-       /* public async Task<IActionResult> CheckOut()
+        public async Task<IActionResult> CheckOut()
         {
+            var name = User.Identity.Name;
             List<CartItem> cart = HttpContext.Session.GetJson<List<CartItem>>("Cart");
-            foreach (CartItem item in cart)
+
+            if (cart != null)
             {
-                Name = item.Name;
-                ProductPrice = item.price;
-                Quantity = item.quantity;
-                Purchase_date = DateTime.Now;
+                foreach (CartItem item in cart)
+                {
+                    if (item != null)
+                    {
+                        Shop createData = new Shop
+                        {
+                            ProductName = item.Name,
+                            ProductPrice = item.price,
+                            Quantity = item.quantity,
+                            Purchase_date = DateTime.Now
+                        };
+
+                        // Add the data to the context
+                        _context.Add(createData);
+                    }
+                }
+
+                // Validate the model and save changes
                 if (ModelState.IsValid)
                 {
-                    _context.Add(product);
                     await _context.SaveChangesAsync();
                     return View();
                 }
             }
+
+            // If cart is null or ModelState is not valid, return the view
             return View();
-        }*/
+        }
 
     }
 }   

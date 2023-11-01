@@ -9,6 +9,7 @@ using ASM1.Data;
 using ASM1.Models;
 using Microsoft.AspNetCore.Authorization;
 using Newtonsoft.Json;
+using DocumentFormat.OpenXml.Office2010.Excel;
 
 namespace ASM1.Controllers
 {
@@ -24,14 +25,18 @@ namespace ASM1.Controllers
         // GET: Products
         [Authorize(Roles = "ADMIN")]
 
-        public async Task<IActionResult> Index()
-        {
-            var applicationDbContext = _context.Product.Include(p => p.Authors);
-            return View(await applicationDbContext.ToListAsync());
-        }
+		public async Task<IActionResult> Index()
+		{
+			var applicationDbContext = _context.Product
+				.Include(p => p.Authors)
+				.Include(p => p.Categories);
 
-        // GET: Products/Details/5
-        public async Task<IActionResult> Details(int? id)
+			return View(await applicationDbContext.ToListAsync());
+		}
+
+
+		// GET: Products/Details/5
+		public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Product == null)
             {
@@ -40,7 +45,8 @@ namespace ASM1.Controllers
 
             var product = await _context.Product
                 .Include(p => p.Authors)
-                .FirstOrDefaultAsync(m => m.Id == id);
+
+				.FirstOrDefaultAsync(m => m.Id == id);
             if (product == null)
             {
                 return NotFound();
@@ -55,8 +61,7 @@ namespace ASM1.Controllers
             {
                 return NotFound();
             }
-
-            var product = await _context.Product
+			var product = await _context.Product
                 .Include(p => p.Authors)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (product == null)
@@ -95,7 +100,8 @@ namespace ASM1.Controllers
         public IActionResult Create()
         {
             ViewData["AuthorId"] = new SelectList(_context.Author, "AuthorId", "AuthorName");
-            return View();
+			ViewData["CategoryId"] = new SelectList(_context.Category, "CategoryId", "CategoryName");
+			return View();
         }
 
         // POST: Products/Create
@@ -103,7 +109,7 @@ namespace ASM1.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,img,price,quantity,type,AuthorId")] Product product)
+        public async Task<IActionResult> Create([Bind("Id,Name,img,price,quantity,AuthorId,CategoryId")] Product product)
         {
             if (ModelState.IsValid)
             {
@@ -112,7 +118,8 @@ namespace ASM1.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["AuthorId"] = new SelectList(_context.Author, "AuthorId", "AuthorName", product.AuthorId);
-            return View(product);
+			ViewData["CategoryId"] = new SelectList(_context.Category, "CategoryId", "CategoryName", product.CategoryId);
+			return View(product);
         }
 
         // GET: Products/Edit/5
@@ -130,7 +137,8 @@ namespace ASM1.Controllers
                 return NotFound();
             }
             ViewData["AuthorId"] = new SelectList(_context.Author, "AuthorId", "AuthorName", product.AuthorId);
-            return View(product);
+			ViewData["CategoryId"] = new SelectList(_context.Category, "CategoryId", "CategoryName", product.CategoryId);
+			return View(product);
         }
 
         // POST: Products/Edit/5
@@ -138,7 +146,7 @@ namespace ASM1.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,img,price,quantity,type,AuthorId")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,img,price,quantity,AuthorId,CategoryId")] Product product)
         {
             if (id != product.Id)
             {
@@ -166,7 +174,8 @@ namespace ASM1.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["AuthorId"] = new SelectList(_context.Author, "AuthorId", "AuthorName", product.AuthorId);
-            return View(product);
+			ViewData["CategoryId"] = new SelectList(_context.Category, "CategoryId", "CategoryName", product.CategoryId);
+			return View(product);
         }
 
         // GET: Products/Delete/5

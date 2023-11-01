@@ -10,6 +10,7 @@
 <p>
 	<a class="btn btn-outline-success" asp-action="Create">Create New</a>
 	<a class="btn btn-outline-success" asp-area="" asp-controller="Authors" asp-action="Index">Add Author</a>
+	<a class="btn btn-outline-success" asp-area="" asp-controller="Categories" asp-action="Index">Add Category</a>
 
 </p>
 <!-- DataTales -->
@@ -36,9 +37,9 @@
 							AuthorName
 						</th>
 						<th>
-							@Html.DisplayNameFor(model => model.type)
+							CategoryName
 						</th>
-						<th></th>
+						
 					</tr>
 				</thead>
 				<tbody>
@@ -61,8 +62,9 @@
 								@Html.DisplayFor(modelItem => item.Authors.AuthorName)
 							</td>
 							<td>
-								@Html.DisplayFor(modelItem => item.type)
+								@Html.DisplayFor(modelItem => item.Categories.CategoryName)
 							</td>
+							
 							<td>
 								<a class="btn btn-info" style="margin-bottom: 5px;" asp-action="Edit" asp-route-id="@item.Id">Edit</a><br>
 								<a class="btn btn-success" style="margin-bottom: 5px;" asp-action="Details" asp-route-id="@item.Id">Details</a><br>

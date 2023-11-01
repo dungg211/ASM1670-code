@@ -12,10 +12,13 @@ namespace ASM1.Models
         public int quantity { get; set; }
         /*		public string? EmpPhotoPath { get; set; }
 		public string? EmpFileName { get; set; }*/
-		public string type { get; set; }
+		
 
         public int? AuthorId { get; set; }
         [ForeignKey("AuthorId")]
         public Author? Authors { get; set; }
-    }
+		public int? CategoryId { get; set; }
+		[ForeignKey("CategoryId")]
+		public Category? Categories { get; set; }
+	}
 }
